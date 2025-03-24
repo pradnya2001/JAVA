@@ -16,3 +16,6 @@ public class hollowrectangle {
         }
     }
 }
+
+// we are learning git today
+
